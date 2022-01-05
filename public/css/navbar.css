@@ -1,0 +1,47 @@
+header{
+    padding-top: var(--navbarHeight);
+}
+
+header nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: var(--navbarHeight);
+    background-color: var(--blue);
+}
+
+header nav ul {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+header nav li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 33.333333%;
+}
+
+header nav li a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    color: #fefefe;
+}
+
+header nav li a:hover{
+    background-color: var(--hoveredBlue);
+    color: #fefefe;
+}

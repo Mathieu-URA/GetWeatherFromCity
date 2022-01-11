@@ -13,6 +13,9 @@ This website goal is to give a temperature depending on a given city. It would f
 3. Execute the command "npm start"
 4. Go to the link http://localhost:3000
 
+#Or
+go to the link: https://getweatherfromcity.herokuapp.com/
+
 ## Launching
 
 - Write the name of the city.
@@ -46,6 +49,9 @@ Ce site a pour objectif de donner une température en fonction d'une ville donn�
 2. Lancer la commmande npm i
 3. Lancer la commande npm start
 4. Allez sur le lien http://localhost:3000
+
+#Ou 
+aller sur le lien: https://getweatherfromcity.herokuapp.com/
 
 ## Démarrage
 
